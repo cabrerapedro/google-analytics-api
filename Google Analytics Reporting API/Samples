@@ -10,3 +10,8 @@ pwd #print current directory
 ls #list contents of current directory
 cd foldername # navigate into the folder
 cd .. # navigate to parent folder
+
+GitHub:
+https://gist.github.com/aaossa/7db152babead60ab097ba2c898d379a6
+https://uoftcoders.github.io/studyGroup/lessons/git/branches/lesson/
+https://www.datree.io/resources/github-best-practices
