@@ -1,0 +1,12 @@
+Samples  |  Analytics Reporting API v4  |  Google Developers
+https://developers.google.com/analytics/devguides/reporting/core/v4/samples
+
+Python Releases for Mac OS X
+https://www.python.org/downloads/mac-osx/
+
+to navigate in terminal
+
+pwd #print current directory
+ls #list contents of current directory
+cd foldername # navigate into the folder
+cd .. # navigate to parent folder
